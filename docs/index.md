@@ -5,7 +5,7 @@ layoutClass: 'm-home-layout'
 hero:
   name: 个人导航
   text: 前端导航
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  tagline: 个人前端导航页面模板
   image:
     src: /logo.png
     alt: 个人导航
