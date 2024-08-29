@@ -16,7 +16,7 @@ hero:
 ---
 
 <style>
-/*爱的魔力转圈圈1*/
+/*爱的魔力转圈圈*/
 .m-home-layout .image-src:hover {
   transform: translate(-50%, -50%) rotate(666turn);
   transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
