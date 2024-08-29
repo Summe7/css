@@ -23,7 +23,7 @@ function updateMetaThemeColor() {
   if (inBrowser) {
     const metaThemeColor = document.querySelector('meta[name="theme-color"]')!
     // #1b1b1f 是 vitepress 在 dark 模式下的背景色
-    metaThemeColor.setAttribute('content', isDark.value ? '#1b1b1f' : '#3eaf7c')
+    metaThemeColor.setAttribute('content', isDark.value ? '#3eaf7c' : '#1b1b1f')
   }
 }
 
