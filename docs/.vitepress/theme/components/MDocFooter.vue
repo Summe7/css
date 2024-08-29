@@ -23,7 +23,7 @@ const isDocFooterVisible = computed(() => {
       <img
         v-if="!DEV && visitor"
         class="visitor"
-        :src="`https://visitor-badge.laobi.icu/badge?page_id=123`"
+        :src="`https://visitor-badge.laobi.icu/badge?page_id=${visitor.badgeId}.${pageId}`"
         title="当前页面累计访问数"
         onerror="this.style.display='none'"
       />
