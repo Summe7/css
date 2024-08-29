@@ -63,3 +63,4 @@ jobs:
           branch: gh-pages
           # 静态文件所在目录
           folder: dist
+          cname: www.534444.xyz
