@@ -10,7 +10,7 @@ hero:
     src: /logo.png
     alt: 个人导航
   actions:
-    - text: 前端导航
+    - text: 个人导航
       link: /nav/
       theme: alt
 ---
