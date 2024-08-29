@@ -66,7 +66,7 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: '',
+      badgeId: '123',
     },
 
     comment: {
